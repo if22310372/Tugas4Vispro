@@ -1,0 +1,11 @@
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\bin\Debug\KonsepUINet.exe.config
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\bin\Debug\KonsepUINet.exe
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\bin\Debug\KonsepUINet.pdb
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.csproj.AssemblyReference.cache
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.Form1.resources
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.Properties.Resources.resources
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.csproj.GenerateResource.cache
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.csproj.CoreCompileInputs.cache
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.exe
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.pdb
+C:\Users\lanac\Downloads\College\Visual Programming\repos\KonsepUINet\KonsepUINet\obj\Debug\KonsepUINet.Form2.resources
